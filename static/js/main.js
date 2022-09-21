@@ -1,5 +1,5 @@
 Vue.config.productionTip = false//关闭生产提示
-new Vue({
+var app = new Vue({
   el: '#app',
   data() {
     return {
